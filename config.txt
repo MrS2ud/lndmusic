@@ -1,14 +1,14 @@
 
 
 
-token = NTg4MTg4NTI3NTQ0NjMxMjk2.XQBf3w.jKwva00ZC_mNM8qx72LmO80xZ2U
+token = NjAyNTI2MzExODYwMTQyMTEz.XWBZIQ.eIdf0ZQ15EB8yWyNvfyq8f1WgIs
 
 
 
-owner = 518500547096084521
+owner = 358966532308729863
 
 
-prefix = M
+prefix = S
 
 
 game = "DEFAULT"
